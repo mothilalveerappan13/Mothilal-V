@@ -1,0 +1,6 @@
+{
+  "name": "Inventory Management System",
+  "description": "Inventory management system implemented with Hash Table and Doubly Linked List data structures with real-time visual inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
